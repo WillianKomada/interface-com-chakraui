@@ -12,9 +12,9 @@ export function Category({ icon, text }: CategoryProps) {
   });
 
   return (
-    <Flex flex={["row", "column"]} align="center" justify="center">
+    <Flex direction={["row", "column"]} align="center" justify="center">
       {isMobile ? (
-        <Image src={`/icons/${icon}.svg`} w="85px" h="85px" mb="8" />
+        <Image src={`/icons/${icon}.svg`} w="85px" h="85px" mb="6" />
       ) : (
         <Text color="yellow.400" fontSize="4xl" mr="2">
           •
