@@ -52,10 +52,9 @@ $ yarn dev
 
 ## 📷 Imagens do Projeto
 
-<p>Imagem ilustrativa do projeto 😎 12/02/2022</p>
+<p>Imagem ilustrativa do projeto 😎 12/01/2022</p>
 
 - [ImageKit](https://imagekit.io/)
 
-<img src="https://ik.imagekit.io/cucgno2zqys/asjdiad_SrsblSb4w.PNG?updatedAt=1640647206415" alt="Home Page">
-<img src="https://ik.imagekit.io/cucgno2zqys/rffsdfasd_VyhdgyYVjeI.PNG?updatedAt=1640647206448" alt="Intro Blog">
-<img src="https://ik.imagekit.io/cucgno2zqys/audhfasidkfhasdf_lfDk5TBeV.PNG?updatedAt=1640647205915" alt="Ending Blog and Comments">
+<img src="https://ik.imagekit.io/cucgno2zqys/wt1_B0p49Fo9i.PNG?updatedAt=1642012038293" alt="Home Page">
+<img src="https://ik.imagekit.io/cucgno2zqys/wt2_Y7OLG1ykqQ.PNG?updatedAt=1642012038442" alt="Curiosidades">
