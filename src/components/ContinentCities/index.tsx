@@ -15,12 +15,16 @@ export function ContinentCities() {
         justifyContent="center"
         px={["30px", "0"]}
       >
-        <City />
-        <City />
-        <City />
-        <City />
-        <City />
-        <City />
+        <City city="city1" capital="Londres" país="Reino Unido" flag="flag1" />
+        <City city="city2" capital="Paris" país="França" flag="flag2" />
+        <City city="city3" capital="Roma" país="Itália" flag="flag3" />
+        <City
+          city="city4"
+          capital="Praga"
+          país="República Tcheca"
+          flag="flag4"
+        />
+        <City city="city5" capital="Amsterdã" país="Holanda" flag="flag5" />
       </Grid>
     </>
   );

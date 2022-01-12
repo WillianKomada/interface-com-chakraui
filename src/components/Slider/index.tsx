@@ -64,7 +64,7 @@ export function Slider() {
             align="center"
             justify="center"
             direction="column"
-            bgImage="url('/europe.png')"
+            bgImage="url('/americaDoNorte.jpg')"
             bgPosition="100% 30%"
             bgRepeat="no-repeat"
             bgSize="cover"
@@ -77,7 +77,7 @@ export function Slider() {
                   color="gray.100"
                   fontWeight="bold"
                 >
-                  Europa
+                  América do Norte
                 </Heading>
                 <Text
                   fontWeight="bold"
@@ -85,7 +85,177 @@ export function Slider() {
                   fontSize={["0.8rem", "1xl", "2xl"]}
                   mt={["2", "4"]}
                 >
-                  O continente mais antigo.
+                  Localizado no extremo norte das Américas.
+                </Text>
+              </a>
+            </Link>
+          </Flex>
+        </SwiperSlide>
+        <SwiperSlide>
+          <Flex
+            w="100%"
+            h="100%"
+            align="center"
+            justify="center"
+            direction="column"
+            bgImage="url('/americaDoSul.jpg')"
+            bgPosition="100% 30%"
+            bgRepeat="no-repeat"
+            bgSize="cover"
+            textAlign="center"
+          >
+            <Link href="/continent/europe">
+              <a>
+                <Heading
+                  fontSize={["3xl", "4xl", "5xl"]}
+                  color="gray.100"
+                  fontWeight="bold"
+                >
+                  América do Sul
+                </Heading>
+                <Text
+                  fontWeight="bold"
+                  color="gray.300"
+                  fontSize={["0.8rem", "1xl", "2xl"]}
+                  mt={["2", "4"]}
+                >
+                  Continente que compreende a porção meridional da América.
+                </Text>
+              </a>
+            </Link>
+          </Flex>
+        </SwiperSlide>
+        <SwiperSlide>
+          <Flex
+            w="100%"
+            h="100%"
+            align="center"
+            justify="center"
+            direction="column"
+            bgImage="url('/africa.jpg')"
+            bgPosition="100% 30%"
+            bgRepeat="no-repeat"
+            bgSize="cover"
+            textAlign="center"
+          >
+            <Link href="/continent/europe">
+              <a>
+                <Heading
+                  fontSize={["3xl", "4xl", "5xl"]}
+                  color="gray.100"
+                  fontWeight="bold"
+                >
+                  África
+                </Heading>
+                <Text
+                  fontWeight="bold"
+                  color="gray.300"
+                  fontSize={["0.8rem", "1xl", "2xl"]}
+                  mt={["2", "4"]}
+                >
+                  A África é o terceiro continente mais extenso.
+                </Text>
+              </a>
+            </Link>
+          </Flex>
+        </SwiperSlide>
+        <SwiperSlide>
+          <Flex
+            w="100%"
+            h="100%"
+            align="center"
+            justify="center"
+            direction="column"
+            bgImage="url('/asia.jpg')"
+            bgPosition="100% 30%"
+            bgRepeat="no-repeat"
+            bgSize="cover"
+            textAlign="center"
+          >
+            <Link href="/continent/europe">
+              <a>
+                <Heading
+                  fontSize={["3xl", "4xl", "5xl"]}
+                  color="gray.100"
+                  fontWeight="bold"
+                >
+                  Ásia
+                </Heading>
+                <Text
+                  fontWeight="bold"
+                  color="gray.300"
+                  fontSize={["0.8rem", "1xl", "2xl"]}
+                  mt={["2", "4"]}
+                >
+                  O maior dos continentes.
+                </Text>
+              </a>
+            </Link>
+          </Flex>
+        </SwiperSlide>
+        <SwiperSlide>
+          <Flex
+            w="100%"
+            h="100%"
+            align="center"
+            justify="center"
+            direction="column"
+            bgImage="url('/oceania.jpg')"
+            bgPosition="100% 30%"
+            bgRepeat="no-repeat"
+            bgSize="cover"
+            textAlign="center"
+          >
+            <Link href="/continent/europe">
+              <a>
+                <Heading
+                  fontSize={["3xl", "4xl", "5xl"]}
+                  color="gray.100"
+                  fontWeight="bold"
+                >
+                  Oceania
+                </Heading>
+                <Text
+                  fontWeight="bold"
+                  color="gray.300"
+                  fontSize={["0.8rem", "1xl", "2xl"]}
+                  mt={["2", "4"]}
+                >
+                  Um continente situado entre os oceanos Índico e Pacífico.
+                </Text>
+              </a>
+            </Link>
+          </Flex>
+        </SwiperSlide>
+        <SwiperSlide>
+          <Flex
+            w="100%"
+            h="100%"
+            align="center"
+            justify="center"
+            direction="column"
+            bgImage="url('/antartida.jpg')"
+            bgPosition="100% 30%"
+            bgRepeat="no-repeat"
+            bgSize="cover"
+            textAlign="center"
+          >
+            <Link href="/continent/europe">
+              <a>
+                <Heading
+                  fontSize={["3xl", "4xl", "5xl"]}
+                  color="gray.100"
+                  fontWeight="bold"
+                >
+                  Antártida
+                </Heading>
+                <Text
+                  fontWeight="bold"
+                  color="gray.300"
+                  fontSize={["0.8rem", "1xl", "2xl"]}
+                  mt={["2", "4"]}
+                >
+                  O segundo menor dos continentes.
                 </Text>
               </a>
             </Link>
